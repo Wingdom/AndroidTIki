@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="list_view_cocktails" />
+    <item type="id" name="floating_button_add" />
+    <item type="id" name="edit_text_cocktail_name" />
+    <item type="id" name="edit_text_cocktail_ingredients" />
+    <item type="id" name="edit_text_cocktail_instructions" />
+    <item type="id" name="button_add_cocktail" />
+    <item name="text_view_cocktail_name" type="id" />
+    <item name="text_view_cocktail_ingredients" type="id" />
+    <item name="text_view_cocktail_instructions" type="id" />
+    <item name="menu_nav_drawer" type="id"/>
+</resources>

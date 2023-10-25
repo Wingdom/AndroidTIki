@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_item_cocktails"
+            android:title="@string/menu_cocktails"
+            android:icon="@drawable/ic_cocktails"
+            />
+        <item
+            android:id="@+id/menu_item_add"
+            android:title="@string/menu_add_cocktail"
+            android:icon="@drawable/ic_add"
+            />
+        <item
+            android:id="@+id/menu_item_invent"
+            android:title="@string/menu_invent_cocktail"
+            android:icon="@drawable/ic_invent"
+            />
+        <item
+            android:id="@+id/menu_item_settings"
+            android:title="@string/menu_settings"
+            android:icon="@drawable/ic_settings"
+            app:actionLayout="@layout/activity_settings"
+            />
+    </group>
+
+</menu>
